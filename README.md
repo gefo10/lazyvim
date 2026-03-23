@@ -10,3 +10,6 @@ alias nvim-custom='NVIM_APPNAME=nvim nvim'
 
 # Optional: set a default
 alias nv='nvim-lazy'
+=======
+# lazyvim
+My LazyVim config
